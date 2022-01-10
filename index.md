@@ -1,7 +1,7 @@
 ## Servidores Banco de Dados
 
-- [ ] Produção
-- [ ] Homologação e Teste
+- [ ] - Produção
+- [ ] - Homologação e Teste
 
 
 ***
